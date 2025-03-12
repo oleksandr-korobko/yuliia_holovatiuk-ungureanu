@@ -273,11 +273,18 @@ export default async function Home() {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            A thinker, changemaker, and multimedia artist
-          </h1>
-          <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             I am a thinker, changemaker, and multimedia artist exploring themes
             of war, displacement, and resilience.
+          </h1>
+          <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
+            Before dedicating myself fully to art, I founded Ukraine’s Energy
+            Efficiency Fund, leading national initiatives in housing and
+            sustainability policy. This experience in systemic transformation
+            informs my artistic practice—where I work with found objects,
+            installation, and archival materials to examine destruction, memory,
+            and cultural survival. My art exists at the intersection of history
+            and the present, using visual storytelling to challenge narratives
+            and create spaces for reflection.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink href="#" aria-label="Follow on X" icon={XIcon} />

@@ -50,7 +50,7 @@ function MailIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
 export const metadata: Metadata = {
   title: 'About',
   description:
-    'I am a thinker, changemaker, and multimedia artist exploring themes of war, displacement, and resilience.'
+    'I am a multimedia artist whose work explores war, resilience, and cultural preservation through installation, photography, and archival interventions. My practice is deeply rooted in personal and collective memory, using found objects, immersive environments, and historical materials to engage with themes of displacement, destruction, and survival.'
 }
 
 export default function About() {
@@ -69,25 +69,35 @@ export default function About() {
         </div>
         <div className="lg:order-first lg:row-span-2">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            I am a thinker, changemaker, and multimedia artist exploring themes
-            of war, displacement, and resilience.
+            I am a multimedia artist whose work explores war, resilience, and
+            cultural preservation through installation, photography, and
+            archival interventions. My practice is deeply rooted in personal and
+            collective memory, using found objects, immersive environments, and
+            historical materials to engage with themes of displacement,
+            destruction, and survival.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-              Before dedicating myself fully to art, I founded Ukraine’s Energy
-              Efficiency Fund, leading national initiatives in housing and
-              sustainability policy.
+              I am a multimedia artist whose work explores war, resilience, and
+              cultural preservation through installation, photography, and
+              archival interventions. My practice is deeply rooted in personal
+              and collective memory, using found objects, immersive
+              environments, and historical materials to engage with themes of
+              displacement, destruction, and survival.
             </p>
             <p>
-              This experience in systemic transformation informs my artistic
-              practice—where I work with found objects, installation, and
-              archival materials to examine destruction, memory, and cultural
-              survival.
+              Before fully transitioning to the arts, I was actively engaged in
+              policy and systemic change, founding Ukraine’s Energy Efficiency
+              Fund and working on housing and sustainability reforms at a
+              national level. This background in transformation—both structural
+              and cultural—shapes my approach to art. I see artistic practice as
+              a form of resistance, dialogue, and preservation, ensuring that
+              histories are neither erased nor forgotten.
             </p>
             <p>
-              My art exists at the intersection of history and the present,
-              using visual storytelling to challenge narratives and create
-              spaces for reflection.
+              My work has been exhibited internationally and continues to evolve
+              as a space where past and present collide, where loss is
+              confronted, and where new futures are imagined.
             </p>
           </div>
         </div>
