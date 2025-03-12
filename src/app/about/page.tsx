@@ -50,7 +50,7 @@ function MailIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
 export const metadata: Metadata = {
   title: 'About',
   description:
-    'I’m Spencer Sharp. I live in New York City, where I design the future.',
+    'I am a thinker, changemaker, and multimedia artist exploring themes of war, displacement, and resilience.'
 }
 
 export default function About() {
